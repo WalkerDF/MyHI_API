@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHI_API", "MyHI_API\MyHI_API.csproj", "{02B8493E-F74E-4495-93DD-A74094212A71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyHI_API.Tests", "MyHI_API.Tests\MyHI_API.Tests.csproj", "{07F03005-74DB-468E-B3B6-D5DB0C6C3559}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02B8493E-F74E-4495-93DD-A74094212A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B8493E-F74E-4495-93DD-A74094212A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B8493E-F74E-4495-93DD-A74094212A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B8493E-F74E-4495-93DD-A74094212A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F03005-74DB-468E-B3B6-D5DB0C6C3559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F03005-74DB-468E-B3B6-D5DB0C6C3559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F03005-74DB-468E-B3B6-D5DB0C6C3559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F03005-74DB-468E-B3B6-D5DB0C6C3559}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
